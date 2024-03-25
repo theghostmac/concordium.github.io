@@ -25,7 +25,7 @@ Get started
 
 .. dropdown:: Chrome
 
-   #. Go to the `Chrome Web Store <https://chrome.google.com/webstore/category/extensions>`__ and search for Concordium Wallet.
+   #. Navigate to `Concordium Wallet <https://chromewebstore.google.com/detail/concordium-wallet/mnnkpffndmickbiakofclnpoiajlegmg>`__ page on the `Chrome Web Store <https://chrome.google.com/webstore/category/extensions>`__.
 
    #. Click **Add to Chrome** from the Chrome Web Store.
 
